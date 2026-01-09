@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Money Tracker
+Comment=Simple money tracking application
+Exec=money-tracker
+Icon=money-tracker
+Terminal=false
+Type=Application
+Categories=Utility;Finance;
+Keywords=money;tracker;finance;budget;
+StartupNotify=true
